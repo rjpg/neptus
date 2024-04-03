@@ -1,6 +1,11 @@
 Neptus, Command and Control Framework
 =====================================
 
+I worked on this project from 2005 to 2015 mainly creating command and control consoles for autonomous vehicles. These consoles are editable and have a plugin architecture to include panels, gadgets, etc.
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4p_mSsJDwQk/0.jpg)](https://www.youtube.com/watch?v=4p_mSsJDwQk)
+
+
 Copyright © 2004-2024 Universidade do Porto - Faculdade de Engenharia
 Laboratório de Sistemas e Tecnologia Subaquática (LSTS)
 All rights reserved.
